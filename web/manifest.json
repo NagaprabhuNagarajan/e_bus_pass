@@ -1,6 +1,6 @@
 {
-    "name": "new_test",
-    "short_name": "new_test",
+    "name": "e_bus_pass",
+    "short_name": "e_bus_pass",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

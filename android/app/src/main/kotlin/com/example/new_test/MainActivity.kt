@@ -1,4 +1,4 @@
-package com.example.new_test
+package com.example.e_bus_pass
 
 import io.flutter.embedding.android.FlutterActivity
 
